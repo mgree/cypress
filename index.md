@@ -4,4 +4,6 @@
 layout: home
 ---
 
-The Cypress group at Stevens studies cybersecurity, programming languages, and systems.
+{{ site.description }}
+
+The Cypress seminar meets {{ site.meeting_time }} in {{ site.meeting_location }}.

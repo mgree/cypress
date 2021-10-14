@@ -1,0 +1,19 @@
+table {
+    margin: 0 auto;
+    width: 86%;
+    border: none;
+    border-collapse: collapse;
+}
+
+tr:nth-child(even) { background: #DDD; }
+tr:nth-child(odd) { background: #FFF; }
+
+thead { 
+    border-bottom: 2px solid black;
+    font-size: x-large;
+}
+
+td { 
+    text-align: center;
+    padding: 1rem;
+}
