@@ -1,5 +1,5 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# empty front matter
 ---
 
 #container {
@@ -79,7 +79,7 @@ section#posts ul {
     margin: 0px;
 }
 
-section#posts li.post {
+section#posts li.post, article.post > header {
     display: grid;
     grid-template-columns: 5fr 1fr;
     align-items: baseline;
@@ -93,7 +93,7 @@ li.post .title {
     margin-bottom: 0px; 
 }
 
-li.post .metadata {
+li.post .metadata, article.post .metadata {
     text-align: right;
 }
 
@@ -101,3 +101,4 @@ li.post .excerpt {
     grid-column-start: 1;
     grid-column-end: 2;
 }
+

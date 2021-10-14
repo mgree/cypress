@@ -16,6 +16,19 @@ plugins:
   - jekyll-feed    # for RSS
   - jekyll-seo-tag # for nice headers on Twitter, etc.
 
+# set up 
+defaults:
+  - scope:
+      path: ""      # all files
+      type: posts   # limit to posts
+    values:
+      type: "post" 
+  - scope:
+      path: ""      # all files
+      type: pages   # limit to pages
+    values:
+      type: "page"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
