@@ -1,0 +1,103 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+#container {
+    position: relative;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+/* borders */
+
+#container > header {
+    border-top: 0.5rem double black;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+
+    border-bottom: 0.25rem solid black;
+}
+
+#container > footer {
+    border-bottom: 0.5rem double black;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+
+    border-top: 0.25rem solid black;
+}
+
+/* header */
+
+#container > header {
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    align-items: baseline;
+}
+
+#container > header nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-left: 0px;
+    margin-top: 0px;
+}
+
+/* footer */
+
+#container > footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#container > footer #site {
+    width: 100%;
+}
+
+#container > footer #contact {
+    width: 100%;
+}
+
+/* posts */
+
+section#posts > header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+section#posts > header h2 {
+    margin-bottom: 0px;
+}
+
+section#posts ul {
+    list-style: none;
+    padding-left: 0px;
+    margin: 0px;
+}
+
+section#posts li.post {
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    align-items: baseline;
+}
+
+li.post .title, li.post .metadata {
+    display: block;
+}
+
+li.post .title { 
+    margin-bottom: 0px; 
+}
+
+li.post .metadata {
+    text-align: right;
+}
+
+li.post .excerpt {
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
