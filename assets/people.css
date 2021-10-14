@@ -21,6 +21,7 @@
     display: block;
     border-radius: 1rem;
     image-rendering: -webkit-optimize-contrast; /* wEb StAnDaRdS aRe OpeN lolsob */
+    margin-bottom: 1rem;
 }
 
 .content ul li a {
