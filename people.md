@@ -31,8 +31,8 @@ permalink: /people/
 - Yifan Wang ywang291
 - Yuandong Liu yliu195
 - Yuchen Zhang yzhan219
-- Mihai Nicolla 
+- Mihai Nicolla lnicola
 - Adam Neil Chen achen19
 - Parisa Fathololumi pfathol1
-- Shan Huang
+- Shan Huang shuang53
 - Chloe Weiers cweiers
