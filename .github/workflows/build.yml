@@ -13,10 +13,10 @@ jobs:
 
     steps:
       - name: Checkout code
-      - uses: actions/checkout@v2
+        uses: actions/checkout@v2
 
       - name: Cache
-      - uses: actions/cache@v2
+        uses: actions/cache@v2
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
@@ -24,12 +24,12 @@ jobs:
             ${{ runner.os }}-gems-
 
       - name: Build 
-      - uses: helaili/jekyll-action@v2
+        uses: helaili/jekyll-action@v2
         with:
           build_only: true
         
       - name: Generate artifact
-      - steps:
+        steps:
           - run: tree
           - uses: actions/upload-artifact@v2
             with:
