@@ -16,8 +16,8 @@ find someone willing to take your place first.
 | Date       | Speaker                               | Topic |
 | ---------- | ------------------------------------- | ------------------------------------------------- |
 | 2021-10-06 | Cyrus Liu                             | Proving LTL Properties of Bitvector Programs and Decompiled Binaries | 
-| 2021-10-13 | Michael Greenberg and Eric Koskinen   | Practice talks for OOPSLA!                        | 
-| 2021-10-20 | **OOPSLA**                            | | 
+| 2021-10-13 | Michael Greenberg and Eric Koskinen   | Practice talks for OOPSLA! | 
+| 2021-10-20 | Dave Naumann                          | Relational Hoare Logic | 
 | 2021-10-27 | Ton Chanh Le                          | | 
 | 2021-11-03 | Adam Chen                             | | 
 | 2021-11-10 | Ramana Nagasamudram                   | | 
