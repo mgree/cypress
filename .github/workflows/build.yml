@@ -28,10 +28,10 @@ jobs:
         with:
           build_only: true
         
-      - name: Generate artifact
-        steps:
-          - run: tree
-          - uses: actions/upload-artifact@v2
-            with:
-              name: site
-              path: _site/
+#      - name: Generate artifact
+#        steps:
+#          - run: tree
+#          - uses: actions/upload-artifact@v2
+#            with:
+#              name: site
+#              path: _site/
