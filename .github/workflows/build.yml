@@ -23,15 +23,18 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - name: Build 
-        uses: helaili/jekyll-action@v2
+      - name: Install jekyll
+        run: |
+            gem install jekyll bundler
+            bundle install
+              
+      - name: Build site
+        run: |
+            bundle exec build
+            tree
+
+      - name: Generate artifact
+        uses: actions/upload-artifact@v2
         with:
-          build_only: true
-        
-#      - name: Generate artifact
-#        steps:
-#          - run: tree
-#          - uses: actions/upload-artifact@v2
-#            with:
-#              name: site
-#              path: _site/
+          name: site
+          path: _site/
