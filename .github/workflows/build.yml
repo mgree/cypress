@@ -1,0 +1,37 @@
+name: Generate static site
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '12 10 * * */2'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+      - uses: actions/checkout@v2
+
+      - name: Cache
+      - uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      - name: Build 
+      - uses: helaili/jekyll-action@v2
+        with:
+          build_only: true
+        
+      - name: Generate artifact
+      - steps:
+          - run: tree
+          - uses: actions/upload-artifact@v2
+            with:
+              name: site
+              path: _site/
