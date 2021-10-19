@@ -21,7 +21,7 @@ permalink: /people/
 
 ## Postdocs and Research Scientists
 
-- [![Ton Chanh Le]({{ "/assets/missing.jpg" | relative_url }}) Ton Chanh Le](https://letonchanh.github.io/)
+- [![Ton Chanh Le]({{ "/assets/tchanhle.jpg" | relative_url }}) Ton Chanh Le](https://letonchanh.github.io/)
 
 ## Students
 
@@ -30,6 +30,7 @@ permalink: /people/
 - ![shuang53]({{ "/assets/missing.jpg" | relative_url }}) Shan Huang
 - ![kklefto1]({{ "/assets/missing.jpg" | relative_url }}) Koss Kleftogiorgos
 - ![yliu195]({{ "/assets/missing.jpg" | relative_url }}) Yuandong Liu
+- [![rnagasam]({{ "/assets/rnagasam.jpg" | relative_url }}) Ramana Nagasamudram](https://github.com/rnagasam)
 - ![lnicola]({{ "/assets/missing.jpg" | relative_url }}) Mihai Nicolla
 - [![Jared Pincus]({{ "/assets/jpincus.jpg" | relative_url }}) Jared Pincus](https://jaredpincus.com/)
 - ![ywang291]({{ "/assets/missing.jpg" | relative_url }}) Yifan Wang 
