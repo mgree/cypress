@@ -25,15 +25,16 @@ permalink: /people/
 
 ## Students
 
-- Da Zhang dzhang2
-- Jianhua Yao jyao1
-- Koss Kleftogiorgos kklefto1
-- Ruotong Yu ryu5
-- Yifan Wang ywang291
-- Yuandong Liu yliu195
-- Yuchen Zhang yzhan219
-- Mihai Nicolla lnicola
-- Adam Neil Chen achen19
-- Parisa Fathololumi pfathol1
-- Shan Huang shuang53
-- Chloe Weiers cweiers
+- ![achen19]({{ "/assets/missing.jpg" | relative_url }}) Adam Neil Chen 
+- ![pfathol1]({{ "/assets/missing.jpg" | relative_url }}) Parisa Fathololumi
+- ![shuang53]({{ "/assets/missing.jpg" | relative_url }}) Shan Huang
+- ![kklefto1]({{ "/assets/missing.jpg" | relative_url }}) Koss Kleftogiorgos
+- ![yliu195]({{ "/assets/missing.jpg" | relative_url }}) Yuandong Liu
+- ![lnicola]({{ "/assets/missing.jpg" | relative_url }}) Mihai Nicolla
+- [![Jared Pincus]({{ "/assets/jpincus.jpg" | relative_url }}) Jared Pincus](https://jaredpincus.com/)
+- ![ywang291]({{ "/assets/missing.jpg" | relative_url }}) Yifan Wang 
+- ![cweiers]({{ "/assets/missing.jpg" | relative_url }}) Chloe Weiers 
+- ![jyao1]({{ "/assets/missing.jpg" | relative_url }}) Jianhua Yao 
+- ![ryu5]({{ "/assets/missing.jpg" | relative_url }}) Ruotong Yu
+- ![dzhang2]({{ "/assets/missing.jpg" | relative_url }}) Da Zhang
+- ![yzhan219]({{ "/assets/missing.jpg" | relative_url }}) Yuchen Zhang
