@@ -18,7 +18,7 @@ find someone willing to take your place first.
 | 2021-10-06 | Cyrus Liu                             | Proving LTL Properties of Bitvector Programs and Decompiled Binaries | 
 | 2021-10-13 | Michael Greenberg and Eric Koskinen   | Practice talks for OOPSLA! | 
 | 2021-10-20 | Dave Naumann                          | Relational Hoare Logic | 
-| 2021-10-27 | Ton Chanh Le                          | | 
+| 2021-10-27 | Ton Chanh Le                          | Deobfuscation with Dynamic Analysis | 
 | 2021-11-03 | Adam Chen                             | | 
 | 2021-11-10 | Ramana Nagasamudram                   | | 
 | 2021-11-17 | Yuchen (Dennis) Zhang                 | | 
@@ -35,7 +35,7 @@ find someone willing to take your place first.
 | 2021-02-02 | Ruotong Yu                            | | 
 | 2021-02-09 | Shan Huang                            | | 
 | 2021-02-16 | Jared Pincus                          | | 
-| 2021-02-23 |                                       | | 
+| 2021-02-23 | Ton Chanh Le                          | Deobfuscation with Deep Learning | 
 | 2021-03-02 |                                       | | 
 | 2021-03-09 |                                       | | 
 | 2021-03-16 |                                       | | 
