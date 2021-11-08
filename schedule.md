@@ -32,7 +32,7 @@ find someone willing to take your place first.
 | 2021-01-12 | **BREAK**                             | | 
 | 2021-01-19 | **POPL**                              | | 
 | 2021-01-26 | Ayomido Akinsanya                     | | 
-| 2021-02-02 | Ruotong Yu                            | | 
+| 2021-02-02 | Raffi Khatchadourian (Hunter College) | TBA | 
 | 2021-02-09 | Shan Huang                            | | 
 | 2021-02-16 | Jared Pincus                          | | 
 | 2021-02-23 | Ton Chanh Le                          | Deobfuscation with Deep Learning | 
