@@ -20,7 +20,7 @@ find someone willing to take your place first.
 | 2021-10-20 | Dave Naumann                          | Relational Hoare Logic | 
 | 2021-10-27 | Ton Chanh Le                          | Deobfuscation with Dynamic Analysis | 
 | 2021-11-03 | *SOCIAL*                              | | 
-| 2021-11-10 | Ramana Nagasamudram                   | | 
+| 2021-11-10 | Ramana Nagasamudram                   | Incorrectness Logic | 
 | 2021-11-17 | Yuchen (Dennis) Zhang                 | Debloating Address Sanitizer | 
 | 2021-11-24 | **THANKSGIVING**                      | | 
 | 2021-12-01 | Mihai Nicolla                         | | 
