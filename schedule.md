@@ -23,9 +23,9 @@ find someone willing to take your place first.
 | 2021-11-10 | Ramana Nagasamudram                   | Incorrectness Logic | 
 | 2021-11-17 | Yuchen (Dennis) Zhang                 | Debloating Address Sanitizer | 
 | 2021-11-24 | **THANKSGIVING**                      | | 
-| 2021-12-01 | Mihai Nicolla                         | | 
+| 2021-12-01 |                                       | | 
 | 2021-12-08 | Koss Kleftogiorgos                    | | 
-| 2021-12-15 | Parisa Fathololumi                    | | 
+| 2021-12-15 | Mihai Nicolla                         | | 
 | 2021-12-22 | **BREAK**                             | | 
 | 2021-12-29 | **BREAK**                             | | 
 | 2021-01-05 | **BREAK**                             | | 
@@ -36,7 +36,7 @@ find someone willing to take your place first.
 | 2021-02-09 | Shan Huang                            | | 
 | 2021-02-16 | Jared Pincus                          | | 
 | 2021-02-23 | Ton Chanh Le                          | Deobfuscation with Deep Learning | 
-| 2021-03-02 |                                       | | 
+| 2021-03-02 | Parisa Fathololumi                    | | 
 | 2021-03-09 |                                       | | 
 | 2021-03-16 |                                       | | 
 | 2021-03-23 |                                       | | 
