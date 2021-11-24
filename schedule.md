@@ -38,7 +38,7 @@ find someone willing to take your place first.
 | 2021-02-23 | Ton Chanh Le                          | Deobfuscation with Deep Learning | 
 | 2021-03-02 | Parisa Fathololumi                    | | 
 | 2021-03-09 |                                       | | 
-| 2021-03-16 |                                       | | 
+| 2021-03-16 | **SPRING BREAK**                      | | 
 | 2021-03-23 |                                       | | 
 | 2021-04-06 |                                       | | 
 | 2021-04-06 |                                       | | 
