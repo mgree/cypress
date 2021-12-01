@@ -22,9 +22,9 @@ find someone willing to take your place first.
 | 2021-11-03 | *SOCIAL*                              | | 
 | 2021-11-10 | Ramana Nagasamudram                   | Incorrectness Logic | 
 | 2021-11-17 | Yuchen (Dennis) Zhang                 | Debloating Address Sanitizer | 
-| 2021-11-24 | **THANKSGIVING**                      | | 
+| 2021-11-24 | **THANKSGIVING**                      | Datalog as a Monotonic Theory | 
 | 2021-12-01 |                                       | | 
-| 2021-12-08 | Koss Kleftogiorgos                    | | 
+| 2021-12-08 | Aaron Bembenek (Harvard)              | | 
 | 2021-12-15 | Mihai Nicolla                         | | 
 | 2021-12-22 | **BREAK**                             | | 
 | 2021-12-29 | **BREAK**                             | | 
@@ -37,7 +37,7 @@ find someone willing to take your place first.
 | 2021-02-16 | Jared Pincus                          | | 
 | 2021-02-23 | Ton Chanh Le                          | Deobfuscation with Deep Learning | 
 | 2021-03-02 | Parisa Fathololumi                    | | 
-| 2021-03-09 |                                       | | 
+| 2021-03-09 | Koss Kleftogiorgos                    | | 
 | 2021-03-16 | **SPRING BREAK**                      | | 
 | 2021-03-23 |                                       | | 
 | 2021-04-06 |                                       | | 
