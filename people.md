@@ -33,6 +33,7 @@ permalink: /people/
 - [![rnagasam]({{ "/assets/rnagasam.jpg" | relative_url }}) Ramana Nagasamudram](https://github.com/rnagasam)
 - ![lnicola]({{ "/assets/missing.jpg" | relative_url }}) Mihai Nicolla
 - [![Jared Pincus]({{ "/assets/jpincus.jpg" | relative_url }}) Jared Pincus](https://jaredpincus.com/)
+- ![vrajagop]({{ "/assets/missing.jpg" | relative_url }}) Vidya Lakshmi Rajagopalan
 - ![ywang291]({{ "/assets/missing.jpg" | relative_url }}) Yifan Wang 
 - ![cweiers]({{ "/assets/missing.jpg" | relative_url }}) Chloe Weiers 
 - ![jyao1]({{ "/assets/missing.jpg" | relative_url }}) Jianhua Yao 
