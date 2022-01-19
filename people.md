@@ -41,3 +41,4 @@ permalink: /people/
 - ![ryu5]({{ "/assets/missing.jpg" | relative_url }}) Ruotong Yu
 - ![dzhang2]({{ "/assets/missing.jpg" | relative_url }}) Da Zhang
 - ![yzhan219]({{ "/assets/missing.jpg" | relative_url }}) Yuchen Zhang
+- ![aakinsan]({{ "/assets/missing.jpg" | relative_url }}) Ayomide Akinsanya (https://github.com/akinsanyaayomide)

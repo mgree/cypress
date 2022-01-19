@@ -28,21 +28,21 @@ find someone willing to take your place first.
 | 2021-12-15 | Mihai Nicolla                         | Scaling a file system to many cores using an operation log | 
 | 2021-12-22 | **BREAK**                             | | 
 | 2021-12-29 | **BREAK**                             | | 
-| 2021-01-05 | **BREAK**                             | | 
-| 2021-01-12 | **BREAK**                             | | 
-| 2021-01-19 | **POPL**                              | | 
-| 2021-01-26 | Ayomide Akinsanya                     | | 
-| 2021-02-02 | Raffi Khatchadourian (Hunter College) | TBA | 
-| 2021-02-09 | Shan Huang                            | | 
-| 2021-02-16 | Jared Pincus                          | | 
-| 2021-02-23 | Ton Chanh Le                          | Deobfuscation with Deep Learning | 
-| 2021-03-02 | Parisa Fathololumi                    | | 
-| 2021-03-09 | Koss Kleftogiorgos                    | | 
-| 2021-03-16 | **SPRING BREAK**                      | | 
-| 2021-03-23 |                                       | | 
-| 2021-04-06 |                                       | | 
-| 2021-04-06 |                                       | | 
-| 2021-04-13 |                                       | | 
-| 2021-04-20 |                                       | | 
-| 2021-04-27 |                                       | | 
-| 2021-05-04 |                                       | | 
+| 2022-01-05 | **BREAK**                             | | 
+| 2022-01-12 | **BREAK**                             | | 
+| 2022-01-19 | **POPL**                              | | 
+| 2022-01-26 |                                       | | 
+| 2022-02-02 | Raffi Khatchadourian (Hunter College) | TBA | 
+| 2022-02-09 | Shan Huang                            | | 
+| 2022-02-16 | Jared Pincus                          | | 
+| 2022-02-23 | Ton Chanh Le                          | Deobfuscation with Deep Learning | 
+| 2022-03-02 | Parisa Fathololumi                    | | 
+| 2022-03-09 | Koss Kleftogiorgos                    | | 
+| 2022-03-16 | **SPRING BREAK**                      | | 
+| 2022-03-23 | Ayomide Akinsanya                     | | 
+| 2022-04-06 |                                       | | 
+| 2022-04-06 |                                       | | 
+| 2022-04-13 |                                       | | 
+| 2022-04-20 |                                       | | 
+| 2022-04-27 |                                       | | 
+| 2022-05-04 |                                       | | 
