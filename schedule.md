@@ -24,14 +24,15 @@ find someone willing to take your place first.
 | 2021-11-17 | Yuchen (Dennis) Zhang                 | Debloating Address Sanitizer | 
 | 2021-11-24 | **THANKSGIVING**                      | | 
 | 2021-12-01 | *SOCIAL*                              | | 
-| 2021-12-08 | Aaron Bembenek (Harvard)              | Datalog as a Monotonic Theory | 
+| 2021-12-08 | Aaron Bembenek (Harvard)              | [Datalog as a Monotonic Theory](https://youtu.be/7Rdkx0OVwEA) | 
 | 2021-12-15 | Mihai Nicolla                         | Scaling a file system to many cores using an operation log | 
+| 2021-12-17 | Michael Pradel (U. of Stuttgart)      | [Neural Software Analysis: Learning Developer Tools from Code](https://youtu.be/5m-SLc7wb2c) |
 | 2021-12-22 | **BREAK**                             | | 
 | 2021-12-29 | **BREAK**                             | | 
 | 2022-01-05 | **BREAK**                             | | 
 | 2022-01-12 | **BREAK**                             | | 
 | 2022-01-19 | **POPL**                              | | 
-| 2022-01-26 |                                       | | 
+| 2022-01-26 | **SOCIAL**                            | | 
 | 2022-02-02 | Raffi Khatchadourian (Hunter College) | TBA | 
 | 2022-02-09 | Shan Huang                            | | 
 | 2022-02-16 | Jared Pincus                          | | 
