@@ -42,6 +42,7 @@ find someone willing to take your place first.
 | 2022-04-20 |                                       | | 
 | 2022-04-27 |                                       | | 
 | 2022-05-04 |                                       | | 
+| 2022-05-06 | **NJPLS!**                            | | 
 | 2022-05-11 |                                       | | 
 | 2022-05-18 | Tachio Terauchi (Waseda, Japan)       | | 
 |            | The plans we had made last year:      | |
