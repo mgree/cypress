@@ -35,7 +35,7 @@ find someone willing to take your place first.
 | 2022-01-26 | **SOCIAL**                            | | 
 | 2022-01-26 | ... (omicron winter) ...              | | 
 | 2022-03-16 | **SPRING BREAK**                      | | 
-| 2022-03-23 | Raffi Khatchadourian (Hunter College) | Challenges in Migrating Imperative Deep Learning Programs to Graph Execution: An Empirical Study | 
+| 2022-03-23 | Raffi Khatchadourian (Hunter College) | [Challenges in Migrating Imperative Deep Learning Programs to Graph Execution: An Empirical Study](https://youtu.be/t49W_JmoNk4) | 
 | 2022-03-30 | Logistics                             | | 
 | 2022-04-01 | Marco Gaboardi                        | A Separation Logic for Negative Dependence | 
 | 2022-04-06 |                                       | | 
