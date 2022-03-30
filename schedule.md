@@ -36,19 +36,12 @@ find someone willing to take your place first.
 | 2022-01-26 | ... (omicron winter) ...              | | 
 | 2022-03-16 | **SPRING BREAK**                      | | 
 | 2022-03-23 | Raffi Khatchadourian (Hunter College) | Challenges in Migrating Imperative Deep Learning Programs to Graph Execution: An Empirical Study | 
-| 2022-04-06 | Logistics                             | | 
+| 2022-03-30 | Logistics                             | | 
 | 2022-04-06 |                                       | | 
-| 2022-04-13 |                                       | | 
-| 2022-04-20 |                                       | | 
-| 2022-04-27 |                                       | | 
-| 2022-05-04 |                                       | | 
+| 2022-04-13 | Shan Huang                            | | 
+| 2022-04-20 | Ayomide Akinsanya                     | | 
+| 2022-04-27 | Jared Pincus                          | Thesis Defense | 
+| 2022-05-04 | Parisa Fathololumi                    | | 
 | 2022-05-06 | **NJPLS!**                            | | 
 | 2022-05-11 |                                       | | 
-| 2022-05-18 | Tachio Terauchi (Waseda, Japan)       | | 
-|            | The plans we had made last year:      | |
-| 2022-02-09 | Shan Huang                            | | 
-| 2022-02-16 | Jared Pincus                          | | 
-| 2022-02-23 | Ton Chanh Le                          | Deobfuscation with Deep Learning | 
-| 2022-03-02 | Parisa Fathololumi                    | | 
-| 2022-03-09 | Koss Kleftogiorgos                    | | 
-| 2022-03-23 | Ayomide Akinsanya                     | | 
+| 2022-05-18 | Tachio Terauchi (Waseda, Japan)       | |
