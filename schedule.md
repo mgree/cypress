@@ -37,8 +37,8 @@ find someone willing to take your place first.
 | 2022-03-16 | **SPRING BREAK**                      | | 
 | 2022-03-23 | Raffi Khatchadourian (Hunter College) | [Challenges in Migrating Imperative Deep Learning Programs to Graph Execution: An Empirical Study](https://youtu.be/t49W_JmoNk4) | 
 | 2022-03-30 | Logistics                             | | 
-| 2022-04-01 | Marco Gaboardi                        | A Separation Logic for Negative Dependence | 
-| 2022-04-06 |                                       | | 
+| 2022-04-01 | Marco Gaboardi                        | [A Separation Logic for Negative Dependence](https://www.youtube.com/watch?v=AO-xlFRCPUE) | 
+| 2022-04-06 | Koss Kleftogeorgios                   | PACStack: an Authenticated Call Stack | 
 | 2022-04-13 | Shan Huang                            | | 
 | 2022-04-20 | Ayomide Akinsanya                     | | 
 | 2022-04-27 | Jared Pincus                          | Thesis Defense | 
