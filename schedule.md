@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: page
 title:  "Seminar"
 categories: seminar schedule
+permalink: /schedule/
 ---
 
 <link rel="stylesheet" href="{{ "/assets/schedule.css" | relative_url }}">
