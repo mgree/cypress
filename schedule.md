@@ -43,7 +43,8 @@ find someone willing to take your place first.
 | 2022-04-13 | Shan Huang                            | | 
 | 2022-04-20 | Ayomide Akinsanya                     | | 
 | 2022-04-27 | Jared Pincus                          | Thesis Defense | 
-| 2022-05-04 | Parisa Fathololumi                    | | 
+| 2022-05-04 | (canceled since NJPLS is this week)   | | 
 | 2022-05-06 | **NJPLS!**                            | | 
 | 2022-05-11 | Ton Chanh Le                          | | 
 | 2022-05-18 | Tachio Terauchi (Waseda, Japan)       | |
+| 2022-06-01 | Parisa Fathololumi                    | Layer Decompositions of Concurrent Objects | 
