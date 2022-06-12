@@ -47,4 +47,4 @@ find someone willing to take your place first.
 | 2022-05-06 | **NJPLS!**                            | | 
 | 2022-05-11 | Ton Chanh Le                          | | 
 | 2022-05-18 | Tachio Terauchi (Waseda, Japan)       | |
-| 2022-06-16 | Agustín Mista (Chalmers)              | | MUTAGEN: Coverage-Guided, Property-Based Testing using Exhaustive Structure-Preserving Mutations
+| 2022-06-16 | Agustín Mista (Chalmers)              | | MUTAGEN: Coverage-Guided, Property-Based Testing using Exhaustive Structure-Preserving Mutations |
