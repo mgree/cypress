@@ -41,3 +41,4 @@ permalink: /people/
 - ![ryu5]({{ "/assets/missing.jpg" | relative_url }}) Ruotong Yu
 - ![dzhang2]({{ "/assets/missing.jpg" | relative_url }}) Da Zhang
 - ![yzhan219]({{ "/assets/missing.jpg" | relative_url }}) Yuchen Zhang
+- [![Eric Wang]({{ "/assets/ericwang.jpg" | relative_url }}) Eric Wang](https://psyduck.wang/)
