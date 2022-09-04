@@ -35,10 +35,10 @@ permalink: /people/
 - ![lnicola]({{ "/assets/missing.jpg" | relative_url }}) Mihai Nicolla
 - [![Jared Pincus]({{ "/assets/jpincus.jpg" | relative_url }}) Jared Pincus](https://jaredpincus.com/)
 - ![vrajagop]({{ "/assets/missing.jpg" | relative_url }}) Vidya Lakshmi Rajagopalan
+- [![Eric Wang]({{ "/assets/ericwang.jpg" | relative_url }}) Eric Wang](https://psyduck.wang/)
 - ![ywang291]({{ "/assets/missing.jpg" | relative_url }}) Yifan Wang 
 - ![cweiers]({{ "/assets/missing.jpg" | relative_url }}) Chloe Weiers 
 - ![jyao1]({{ "/assets/missing.jpg" | relative_url }}) Jianhua Yao 
 - ![ryu5]({{ "/assets/missing.jpg" | relative_url }}) Ruotong Yu
 - ![dzhang2]({{ "/assets/missing.jpg" | relative_url }}) Da Zhang
 - ![yzhan219]({{ "/assets/missing.jpg" | relative_url }}) Yuchen Zhang
-- [![Eric Wang]({{ "/assets/ericwang.jpg" | relative_url }}) Eric Wang](https://psyduck.wang/)
