@@ -15,16 +15,14 @@ permalink: /people/
 - [![Eric Koskinen]({{ "/assets/ekoskine.jpg" | relative_url }}) Eric Koskinen](https://www.cs.stevens.edu/~ejk/#/~ejk/)
 - [![Philippe Meunier]({{ "/assets/pmeunier.jpg" | relative_url }}) Philippe Meunier](https://faculty.stevens.edu/pmeunier/)
 - [![Dave Naumann]({{ "/assets/dnaumann.jpg" | relative_url }}) Dave Naumann](https://www.cs.stevens.edu/~naumann/)
+- [![Antonio Nicolosi]({{ "/assets/anicolos.jpg" | relative_url }}) Antonio Nicolosi](https://www.cs.stevens.edu/~nicolosi/)
 - [![Georgios Portokalidis]({{ "/assets/gportoka.jpg" | relative_url }}) Georgios Portokalidis](https://www.portokalidis.net/)
 - [![Susanne Wetzel]({{ "/assets/swetzel.jpg" | relative_url }}) Susanne Wetzel](https://www.cs.stevens.edu/~swetzel/)
-- [![Jun Xu]({{ "/assets/jxu69.jpg" | relative_url }}) Jun Xu](https://sites.google.com/view/junxzm)
 
-## Postdocs and Research Scientists
-
-- [![Ton Chanh Le]({{ "/assets/tchanhle.jpg" | relative_url }}) Ton Chanh Le](https://letonchanh.github.io/)
 
 ## Students
 
+- [![aakinsan]({{ "/assets/missing.jpg" | relative_url }}) Ayomide Akinsanya](https://github.com/akinsanyaayomide)
 - ![achen19]({{ "/assets/missing.jpg" | relative_url }}) Adam Neil Chen 
 - ![pfathol1]({{ "/assets/missing.jpg" | relative_url }}) Parisa Fathololumi
 - ![shuang53]({{ "/assets/missing.jpg" | relative_url }}) Shan Huang
@@ -33,9 +31,15 @@ permalink: /people/
 - [![rnagasam]({{ "/assets/rnagasam.jpg" | relative_url }}) Ramana Nagasamudram](https://github.com/rnagasam)
 - ![lnicola]({{ "/assets/missing.jpg" | relative_url }}) Mihai Nicolla
 - [![Jared Pincus]({{ "/assets/jpincus.jpg" | relative_url }}) Jared Pincus](https://jaredpincus.com/)
+- ![vrajagop]({{ "/assets/missing.jpg" | relative_url }}) Vidya Lakshmi Rajagopalan
+- [![Eric Wang]({{ "/assets/ericwang.jpg" | relative_url }}) Eric Wang](https://psyduck.wang/)
 - ![ywang291]({{ "/assets/missing.jpg" | relative_url }}) Yifan Wang 
 - ![cweiers]({{ "/assets/missing.jpg" | relative_url }}) Chloe Weiers 
 - ![jyao1]({{ "/assets/missing.jpg" | relative_url }}) Jianhua Yao 
 - ![ryu5]({{ "/assets/missing.jpg" | relative_url }}) Ruotong Yu
 - ![dzhang2]({{ "/assets/missing.jpg" | relative_url }}) Da Zhang
 - [![yzhan219]({{ "/assets/missing.jpg" | relative_url }}) Yuchen Zhang](https://sites.google.com/view/yuchenzhang)
+
+## Alumni
+
+- [![Ton Chanh Le]({{ "/assets/tchanhle.jpg" | relative_url }}) Ton Chanh Le](https://letonchanh.github.io/) (Algorand)

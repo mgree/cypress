@@ -1,19 +1,21 @@
 <header role="banner">
   {%- assign default_paths = site.pages | map: "path" -%}
   {%- assign page_paths = site.header_pages | default: default_paths -%}
-  <h1><a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>{%- if page.title and page.type == "page" -%}&nbsp;&mdash;&nbsp;{{page.title | escape}}{% elsif page.type == "post" %}&nbsp;&mdash;&nbsp;News{%- endif -%}</h1>
+  <h1><a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+      <img src="{{ '/assets/cypress.png' | relative_url }}" alt="Stevens Cypress" id="logo"></a></h1>
 
   {%- if page_paths -%}
     <nav class="site-nav" role="navigation" aria-label="Main">
-      <ul>
-        <li><a class="page-link" href="{{ "/" | relative_url }}">Home</a></li>
+        <a class="page-link" href="{{ "/" | relative_url }}">Home</a>
       {%- for path in page_paths -%}
         {%- assign my_page = site.pages | where: "path", path | first -%}
         {%- if my_page.title -%}
-          <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+        {%- unless my_page.categories contains "archive" -%} 
+        <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+        {%- endunless -%}
         {%- endif -%}
       {%- endfor -%}
-      </ul>
+        <a class="page-link" href="https://www.youtube.com/channel/UC_I0jOAcEocDjJm4nj3eUWw">YouTube</a>
     </nav>
   {%- endif -%}
 </header>
