@@ -19,9 +19,6 @@ permalink: /people/
 - [![Georgios Portokalidis]({{ "/assets/gportoka.jpg" | relative_url }}) Georgios Portokalidis](https://www.portokalidis.net/)
 - [![Susanne Wetzel]({{ "/assets/swetzel.jpg" | relative_url }}) Susanne Wetzel](https://www.cs.stevens.edu/~swetzel/)
 
-## Postdocs and Research Scientists
-
-- [![Ton Chanh Le]({{ "/assets/tchanhle.jpg" | relative_url }}) Ton Chanh Le](https://letonchanh.github.io/)
 
 ## Students
 
@@ -42,3 +39,7 @@ permalink: /people/
 - ![ryu5]({{ "/assets/missing.jpg" | relative_url }}) Ruotong Yu
 - ![dzhang2]({{ "/assets/missing.jpg" | relative_url }}) Da Zhang
 - ![yzhan219]({{ "/assets/missing.jpg" | relative_url }}) Yuchen Zhang
+
+## Alumni
+
+- [![Ton Chanh Le]({{ "/assets/tchanhle.jpg" | relative_url }}) Ton Chanh Le](https://letonchanh.github.io/), Now at Algorand
