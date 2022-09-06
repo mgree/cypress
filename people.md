@@ -42,4 +42,4 @@ permalink: /people/
 
 ## Alumni
 
-- [![Ton Chanh Le]({{ "/assets/tchanhle.jpg" | relative_url }}) Ton Chanh Le](https://letonchanh.github.io/), Now at Algorand
+- [![Ton Chanh Le]({{ "/assets/tchanhle.jpg" | relative_url }}) Ton Chanh Le](https://letonchanh.github.io/) (Algorand)
