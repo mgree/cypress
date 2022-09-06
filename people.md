@@ -38,4 +38,4 @@ permalink: /people/
 - ![jyao1]({{ "/assets/missing.jpg" | relative_url }}) Jianhua Yao 
 - ![ryu5]({{ "/assets/missing.jpg" | relative_url }}) Ruotong Yu
 - ![dzhang2]({{ "/assets/missing.jpg" | relative_url }}) Da Zhang
-- ![yzhan219]({{ "/assets/missing.jpg" | relative_url }}) Yuchen Zhang
+- [![yzhan219]({{ "/assets/missing.jpg" | relative_url }}) Yuchen Zhang](https://sites.google.com/view/yuchenzhang)
