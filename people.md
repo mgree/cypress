@@ -30,7 +30,6 @@ permalink: /people/
 - ![yliu195]({{ "/assets/missing.jpg" | relative_url }}) Yuandong Liu
 - [![rnagasam]({{ "/assets/rnagasam.jpg" | relative_url }}) Ramana Nagasamudram](https://github.com/rnagasam)
 - ![lnicola]({{ "/assets/missing.jpg" | relative_url }}) Mihai Nicolla
-- [![Jared Pincus]({{ "/assets/jpincus.jpg" | relative_url }}) Jared Pincus](https://jaredpincus.com/)
 - ![vrajagop]({{ "/assets/missing.jpg" | relative_url }}) Vidya Lakshmi Rajagopalan
 - [![Eric Wang]({{ "/assets/ericwang.jpg" | relative_url }}) Eric Wang](https://psyduck.wang/)
 - ![ywang291]({{ "/assets/missing.jpg" | relative_url }}) Yifan Wang 
@@ -43,3 +42,4 @@ permalink: /people/
 ## Alumni
 
 - [![Ton Chanh Le]({{ "/assets/tchanhle.jpg" | relative_url }}) Ton Chanh Le](https://letonchanh.github.io/) (Algorand)
+- [![Jared Pincus]({{ "/assets/jpincus.jpg" | relative_url }}) Jared Pincus](https://jaredpincus.com/) (PhD at BU)
