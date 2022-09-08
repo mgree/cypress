@@ -24,7 +24,7 @@ permalink: /people/
 
 - [![aakinsan]({{ "/assets/missing.jpg" | relative_url }}) Ayomide Akinsanya](https://github.com/akinsanyaayomide)
 - ![achen19]({{ "/assets/missing.jpg" | relative_url }}) Adam Neil Chen 
-- [![fdoshi]({{ "/assets/fdoshi.jpg" | relative_url }}) Feneel Doshi]
+- ![fdoshi]({{ "/assets/fdoshi.jpg" | relative_url }}) Feneel Doshi
 - ![pfathol1]({{ "/assets/missing.jpg" | relative_url }}) Parisa Fathololumi
 - ![shuang53]({{ "/assets/missing.jpg" | relative_url }}) Shan Huang
 - ![kklefto1]({{ "/assets/missing.jpg" | relative_url }}) Koss Kleftogiorgos
