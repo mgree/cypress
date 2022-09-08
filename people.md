@@ -38,6 +38,8 @@ permalink: /people/
 - ![ryu5]({{ "/assets/missing.jpg" | relative_url }}) Ruotong Yu
 - ![dzhang2]({{ "/assets/missing.jpg" | relative_url }}) Da Zhang
 - [![yzhan219]({{ "/assets/yzhan219.jpg" | relative_url }}) Yuchen (Dennis) Zhang](https://sites.google.com/view/yuchenzhang)
+- [![fdoshi]({{ "/assets/fdoshi.jpeg" | relative_url }}) Feneel Doshi]
+
 
 ## Alumni
 
