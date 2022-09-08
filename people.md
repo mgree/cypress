@@ -24,6 +24,7 @@ permalink: /people/
 
 - [![aakinsan]({{ "/assets/missing.jpg" | relative_url }}) Ayomide Akinsanya](https://github.com/akinsanyaayomide)
 - ![achen19]({{ "/assets/missing.jpg" | relative_url }}) Adam Neil Chen 
+- [![fdoshi]({{ "/assets/fdoshi.jpeg" | relative_url }}) Feneel Doshi]
 - ![pfathol1]({{ "/assets/missing.jpg" | relative_url }}) Parisa Fathololumi
 - ![shuang53]({{ "/assets/missing.jpg" | relative_url }}) Shan Huang
 - ![kklefto1]({{ "/assets/missing.jpg" | relative_url }}) Koss Kleftogiorgos
@@ -38,7 +39,6 @@ permalink: /people/
 - ![ryu5]({{ "/assets/missing.jpg" | relative_url }}) Ruotong Yu
 - ![dzhang2]({{ "/assets/missing.jpg" | relative_url }}) Da Zhang
 - [![yzhan219]({{ "/assets/yzhan219.jpg" | relative_url }}) Yuchen (Dennis) Zhang](https://sites.google.com/view/yuchenzhang)
-- [![fdoshi]({{ "/assets/fdoshi.jpeg" | relative_url }}) Feneel Doshi]
 
 
 ## Alumni
