@@ -7,7 +7,7 @@ permalink: /schedule/
 
 <link rel="stylesheet" href="{{ "/assets/schedule.css" | relative_url }}">
 
-The Cypress seminar meets {{ site.meeting_time }} in {{ site.meeting_location }}.
+The Cypress seminar meets {{ site.meeting_time }} in {{ site.meeting_location }} also via [Zoom](https://stevens.zoom.us/j/96042392165).
 
 You should be able to access GS 222 with your DuckCard. To sign up,
 choose an empty slot and let <a id="contact" href="mailto:{{
@@ -19,7 +19,7 @@ find someone willing to take your place first.
 | 2022-09-08 | Farzaneh Derakhshan (CMU) | Recursive Session Logical Relations for Information Flow Control | 
 | 2022-09-13 | Y. Cyrus Liu | |
 | 2022-09-20 | Adam Chen | |
-| 2022-09-27 | Eric Wang | |
+| 2022-09-27 | Eric Wang | A Type System for Purpose Limitation |
 | 2022-10-04 | Shan Huang | |
 | 2022-10-11 | **FALL RECESS** | |
 | 2022-10-18 | Julian Parsert (Oxford) | |
