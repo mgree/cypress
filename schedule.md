@@ -20,9 +20,9 @@ find someone willing to take your place first.
 | 2022-09-13 | Y. Cyrus Liu | |
 | 2022-09-20 | Adam Chen | |
 | 2022-09-27 | Eric Wang | A Type System for Purpose Limitation |
-| 2022-10-04 | Shan Huang | |
-| 2022-10-11 | **FALL RECESS** | |
-| 2022-10-18 | Julian Parsert (Oxford) | |
+| 2022-10-04 | (Social) | |
+| 2022-10-11 | Shan Huang | |
+| 2022-10-18 | Julian Parsert (Oxford) | Neural Termination Analysis (FSE'22) |
 | 2022-10-25 | Ayomide Akinsanya | |
 | 2022-11-01 | Parisa Fathololumi | |
 | 2022-11-09 | Mihai Nicolla | |
