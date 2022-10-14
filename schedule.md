@@ -17,12 +17,12 @@ find someone willing to take your place first.
 | Date       | Speaker                               | Topic |
 | ---------- | ------------------------------------- | ------------------------------------------------- |
 | 2022-09-08 | Farzaneh Derakhshan (CMU) | Recursive Session Logical Relations for Information Flow Control | 
-| 2022-09-13 | Y. Cyrus Liu | |
-| 2022-09-20 | Adam Chen | |
+| 2022-09-13 | Y. Cyrus Liu | DrNLA: Dual Rewriting for Branching-Time Verification of Non-Linear Arithmetic Programs |
+| 2022-09-20 | Adam Chen | Veracity (Declarative Multicore Programming with Commutativity) |
 | 2022-09-27 | Eric Wang | A Type System for Purpose Limitation |
-| 2022-10-04 | Shan Huang | |
-| 2022-10-11 | **FALL RECESS** | |
-| 2022-10-18 | Julian Parsert (Oxford) | |
+| 2022-10-04 | **Social** | |
+| 2022-10-11 | Shan Huang | Integration of ROP/JOP Monitoring IPs in an ARM-based SoC |
+| 2022-10-18 | Julian Parsert (Oxford) | Neural Termination Analysis |
 | 2022-10-25 | Ayomide Akinsanya | |
 | 2022-11-01 | Parisa Fathololumi | |
 | 2022-11-09 | Mihai Nicolla | |
