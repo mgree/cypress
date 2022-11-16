@@ -26,11 +26,11 @@ find someone willing to take your place first.
 | 2022-10-25 | Ayomide Akinsanya | |
 | 2022-11-01 | Parisa Fathololumi | |
 | 2022-11-09 | Mihai Nicolla | |
-| 2022-11-15 | Vidya Lakshmi Rajagopalan | |
+| 2022-11-15 | Koss Kleftogiorgos | |
 | 2022-11-22 | **THANKSGIVING** | |
 | 2022-11-29 | Dennis Zhang | |
 | 2022-12-06 | Ramana Nagasamudram | |
-| 2022-12-13 | Koss Kleftogiorgos |
+| 2022-12-13 | Vidya Lakshmi Rajagopalan |
 
 ## Archive
 
