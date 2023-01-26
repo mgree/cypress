@@ -16,6 +16,27 @@ find someone willing to take your place first.
 
 | Date       | Speaker                               | Topic |
 | ---------- | ------------------------------------- | ------------------------------------------------- |
+| 2023-01-26 | Shan Huang | [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/abs/2204.04008) | 
+| 2023-02-02 | | |
+| 2023-02-09 | | |
+| 2023-02-16 | | |
+| 2023-02-23 | | |
+| 2023-03-02 | | |
+| 2023-03-09 | | |
+| 2023-03-16 | **Spring Break** | |
+| 2023-03-23 | | |
+| 2023-03-30 | | |
+| 2023-04-06 | | |
+| 2023-04-13 | | |
+| 2023-04-20 | | |
+| 2023-04-27 | | |
+| 2023-05-04 | | |
+| 2023-05-11 | | |
+
+In the fall, Cypress met at noon on Tuesdays in GS 222.
+
+| Date       | Speaker                               | Topic |
+| ---------- | ------------------------------------- | ------------------------------------------------- |
 | 2022-09-08 | Farzaneh Derakhshan (CMU) | Recursive Session Logical Relations for Information Flow Control | 
 | 2022-09-13 | Y. Cyrus Liu | DrNLA: Dual Rewriting for Branching-Time Verification of Non-Linear Arithmetic Programs |
 | 2022-09-20 | Adam Chen | Veracity (Declarative Multicore Programming with Commutativity) |
