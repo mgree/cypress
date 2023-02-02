@@ -25,7 +25,7 @@ find someone willing to take your place first.
 | 2023-03-09 | Eric Wang | |
 | 2023-03-16 | **Spring Break** | |
 | 2023-03-23 | Dennis Zhang | |
-| 2023-03-30 | | |
+| 2023-03-30 | Y. Cyrus Liu | |
 | 2023-04-06 | | |
 | 2023-04-13 | | |
 | 2023-04-20 | | |
@@ -33,7 +33,7 @@ find someone willing to take your place first.
 | 2023-05-04 | Ayomide Akinsanya | |
 | 2023-05-11 | | |
 
-TBD: Cyrus, Mihai, Narong, Vidya, Koss, Adam
+TBD: Mihai, Narong, Vidya, Koss, Adam
 
 In the fall, Cypress met at noon on Tuesdays in GS 222.
 
