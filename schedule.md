@@ -20,20 +20,20 @@ find someone willing to take your place first.
 | 2023-02-02 | **Social** | |
 | 2023-02-09 | | |
 | 2023-02-16 | Parisa Fathololumi | |
-| 2023-02-23 | | |
+| 2023-02-23 | Mihai Nicolla | |
 | 2023-03-02 | Ramana Nagasamudram | |
 | 2023-03-09 | Eric Wang | |
 | 2023-03-16 | **Spring Break** | |
 | 2023-03-23 | Dennis Zhang | |
 | 2023-03-30 | Y. Cyrus Liu | |
-| 2023-04-06 | | |
+| 2023-04-06 | Koss Kleftogiorgos | |
 | 2023-04-13 | | |
 | 2023-04-20 | | |
 | 2023-04-27 | | |
 | 2023-05-04 | Ayomide Akinsanya | |
 | 2023-05-11 | | |
 
-TBD: Mihai, Narong, Vidya, Koss, Adam
+TBD: Narong, Vidya, Adam
 
 In the fall, Cypress met at noon on Tuesdays in GS 222.
 
