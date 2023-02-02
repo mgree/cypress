@@ -27,13 +27,13 @@ find someone willing to take your place first.
 | 2023-03-23 | Dennis Zhang | |
 | 2023-03-30 | Y. Cyrus Liu | |
 | 2023-04-06 | Koss Kleftogiorgos | |
-| 2023-04-13 | | |
+| 2023-04-13 | Adam Chen | |
 | 2023-04-20 | | |
 | 2023-04-27 | | |
 | 2023-05-04 | Ayomide Akinsanya | |
 | 2023-05-11 | | |
 
-TBD: Narong, Vidya, Adam
+TBD: Narong, Vidya
 
 In the fall, Cypress met at noon on Tuesdays in GS 222.
 
