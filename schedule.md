@@ -25,7 +25,7 @@ find someone willing to take your place first.
 | 2023-03-09 | Eric Wang | |
 | 2023-03-16 | **Spring Break** | |
 | 2023-03-23 | Dennis Zhang | |
-| 2023-03-30 | Y. Cyrus Liu | |
+| 2023-03-30 | Y. Cyrus Liu | [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/SmartPulse-Oakland21-preprint.pdf) |
 | 2023-04-06 | Koss Kleftogiorgos | |
 | 2023-04-13 | Adam Chen | |
 | 2023-04-20 | Narong Chaiwut | |
