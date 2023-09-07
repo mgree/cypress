@@ -11,7 +11,7 @@ permalink: /people/
 - [![Eduardo Bonelli]({{ "/assets/ebonelli.jpg" | relative_url }}) Eduardo Bonelli](https://ebonelli.github.io/)
 - [![Tegan Brennan]({{ "/assets/tbrenna5.jpg" | relative_url }}) Tegan Brennan](https://faculty.stevens.edu/tbrenna5)
 - [![Dominic Duggan]({{ "/assets/dduggan.jpg" | relative_url }}) Dominic Duggan](https://www.cs.stevens.edu/~dduggan/)
-- [![Will Eiers]({{ "/asserts/weiers.jpg" | relative_url }}) Will Eiers](https://sites.cs.ucsb.edu/~weiers/)
+- [![Will Eiers]({{ "/assets/weiers.jpg" | relative_url }}) Will Eiers](https://sites.cs.ucsb.edu/~weiers/)
 - [![Michael Greenberg]({{ "/assets/mgreenbe.jpg" | relative_url }})  Michael Greenberg](https://mgree.github.io)
 - [![Eric Koskinen]({{ "/assets/ekoskine.jpg" | relative_url }}) Eric Koskinen](https://www.cs.stevens.edu/~ejk/#/~ejk/)
 - [![Philippe Meunier]({{ "/assets/pmeunier.jpg" | relative_url }}) Philippe Meunier](https://faculty.stevens.edu/pmeunier/)
