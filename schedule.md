@@ -19,7 +19,7 @@ find someone willing to take your place first.
 | 2023-09-07 | **SOCIAL** | | 
 | 2023-09-14 | | |
 | 2023-09-21 | | |
-| 2023-09-28 | Eric Wang | |
+| 2023-09-28 | Hang Liu | |
 | 2023-10-05 | Maurice Herlihy (Brown) | |
 | 2023-10-12 | Parisa Fathololumi| |
 | 2023-10-19 | Vidya Lakshmi Rajagopalan | |
@@ -28,7 +28,7 @@ find someone willing to take your place first.
 | 2023-11-09 | Mihai Nicola | |
 | 2023-11-16 | Ayomide | |
 | 2023-11-23 | **THANKSGIVING** | |
-| 2023-11-30 | | |
+| 2023-11-30 | Eric Wang | |
 | 2023-12-07 | | |
 | 2023-12-14 | | |
 
