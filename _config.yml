@@ -7,7 +7,7 @@ organizer: Michael Greenberg
 description: >- # this means to ignore newlines until "baseurl:"
   The Cypress group at Stevens Institute of Technology studies cybersecurity, programming languages, and systems.
 meeting_time: "Thursdays from 12:30m-2pm"
-meeting_location: "Gateway South 222"
+meeting_location: "Gateway North 303"
 baseurl: "/cypress" # the subpath of your site, e.g. /blog
 url: "https://www.cs.stevens.edu/cypress/" # the base hostname & protocol for your site, e.g. http://example.com
 
