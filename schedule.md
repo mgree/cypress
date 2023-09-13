@@ -18,8 +18,8 @@ find someone willing to take your place first.
 | ---------- | ------------------------------------- | ------------------------------------------------- |
 | 2023-09-07 | **SOCIAL** | | 
 | 2023-09-14 | | |
-| 2023-09-21 | Adam Chen | |
-| 2023-09-28 | Hang Liu (Rutgers) | |
+| 2023-09-21 | Adam Chen | Better Predicate Pruning and Heuristics for Commutativity Synthesis |
+| 2023-09-28 | Hang Liu (Rutgers) | High-Performance Big Data Analytics |
 | 2023-10-05 | Maurice Herlihy (Brown) | |
 | 2023-10-12 | Parisa Fathololumi| |
 | 2023-10-19 | Vidya Lakshmi Rajagopalan | |
