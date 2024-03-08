@@ -37,7 +37,7 @@ find someone willing to take your place first.
 | 2024-04-04 | Parisa Fathololumi | |
 | 2024-04-11 | Ramana Nagasamudram | |
 | 2024-04-18 | Mihai Nicola | |
-| 2024-04-25 | Melody Gallo | |
+| 2024-04-25 | | |
 | 2024-05--2 | Shan Huang | |
 
 ## Archive
