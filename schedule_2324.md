@@ -2,7 +2,7 @@
 layout: page
 title:  "Seminar"
 categories: seminar schedule
-permalink: /schedule/
+permalink: /schedule/2023_2024
 ---
 
 <link rel="stylesheet" href="{{ "/assets/schedule.css" | relative_url }}">
