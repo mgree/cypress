@@ -16,19 +16,20 @@ find someone willing to take your place first.
 
 | Date       | Speaker            | Topic                                                                               |
 | ---------- | ------------------ | ----------------------------------------------------------------------------------- |
-| 2024-09-12 | Eric Koskinen      | Verifying Concurrent Objects                                                        |
-| 2024-09-19 | SpeakerName        | TopicName                                                                           |
-| 2024-09-26 | SpeakerName        | TopicName                                                                           |
+| 2024-09-12 | Eric Koskinen      | Verifying Concurrent Objects |                                                    
+| 2024-09-26 |   |  Melody Gallo   | Bidirectional type checking for SKI calculus |
+
 | 2024-10-03 | Koss Kleftogiorgos | SIDECAR: Leveraging Debugging Extensions in Commodity Processors to Secure Software |
-| 2024-10-10 | SpeakerName        | TopicName                                                                           |
-| 2024-10-17 | SpeakerName        | TopicName                                                                           |
-| 2024-10-24 | SpeakerName        | TopicName                                                                           |
-| 2024-10-31 | SpeakerName        | TopicName                                                                           |
-| 2024-11-07 | SpeakerName        | TopicName                                                                           |
-| 2024-11-14 | SpeakerName        | TopicName                                                                           |
-| 2024-11-21 | SpeakerName        | TopicName                                                                           |
-| 2023-11-28 | **THANKSGIVING**   |                                                                                     |
-| 2023-12-05 | SpeakerName        | TopicName                                                                           |
+
+| 2024-10-10 | Vidya Lakshmi Rajagopalan        | Evaluating the Effect of Improved Indirect Call Resolution on System Call Debloating |            
+| 2024-10-17 | Mihai Nicola        | |                                                                           
+| 2024-10-24 | Adam Chen        | |   
+| 2024-10-31 | Weihao Qu        | |
+| 2024-11-07 | Parisa Fathololumi |  |
+| 2024-11-14 | Eric Wang        | |
+| 2024-11-21 | Ayomide Akinsanya  | |
+| 2023-11-28 | **THANKSGIVING**   | |
+| 2023-12-05 | SpeakerName        | |
 
 ## Archive
 
