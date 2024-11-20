@@ -16,20 +16,18 @@ find someone willing to take your place first.
 
 | Date       | Speaker            | Topic                                                                               |
 | ---------- | ------------------ | ----------------------------------------------------------------------------------- |
-| 2024-09-12 | Eric Koskinen      | Verifying Concurrent Objects |                                                    
-| 2024-09-26 |   |  Melody Gallo   | Bidirectional type checking for SKI calculus |
-
-| 2024-10-03 | Koss Kleftogiorgos | SIDECAR: Leveraging Debugging Extensions in Commodity Processors to Secure Software |
-
-| 2024-10-10 | Vidya Lakshmi Rajagopalan        | Evaluating the Effect of Improved Indirect Call Resolution on System Call Debloating |            
-| 2024-10-17 | Mihai Nicola        | |                                                                           
-| 2024-10-24 | Adam Chen        | |   
-| 2024-10-31 | Weihao Qu        | |
-| 2024-11-07 | Parisa Fathololumi |  |
-| 2024-11-14 | Eric Wang        | |
-| 2024-11-21 | Ayomide Akinsanya  | |
-| 2023-11-28 | **THANKSGIVING**   | |
-| 2023-12-05 | SpeakerName        | |
+| 2024-09-12 | Eric Koskinen      		| Verifying Concurrent Objects	|                                                    
+| 2024-09-26 | Melody Gallo   			| Bidirectional type checking for SKI calculus	|
+| 2024-10-03 | Koss Kleftogiorgos 		| SIDECAR: Leveraging Debugging Extensions in Commodity Processors to Secure Software	|
+| 2024-10-10 | Vidya Lakshmi Rajagopalan        | Evaluating the Effect of Improved Indirect Call Resolution on System Call Debloating 	|            
+| 2024-10-17 | Mihai Nicola        		| Algebraic Effects and Effect Handlers	|                                                                           
+| 2024-10-24 | Adam Chen        		| Frex: Dependently Typed Algebraic Simplification	|   
+| 2024-10-31 | Weihao Qu (Guest Speaker)        | Utilizing Program Analysis on Adaptive Data Analysis Algorithms	|
+| 2024-11-07 | **SOCIAL** 			| |
+| 2024-11-14 | **SOCIAL**        		| |
+| 2024-11-21 | Eric Wang  			| Normalization by Evaluation (NbE)	|
+| 2023-11-28 | **THANKSGIVING**   		| |
+| 2023-12-05 | Ayomide Akinsanya        	| |
 
 ## Archive
 
