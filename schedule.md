@@ -16,18 +16,34 @@ find someone willing to take your place first.
 
 | Date       | Speaker            | Topic                                                                               |
 | ---------- | ------------------ | ----------------------------------------------------------------------------------- |
-| 2024-09-12 | Eric Koskinen      		| Verifying Concurrent Objects	|                                                    
+| 2024-09-12 | Eric Koskinen      		| Verifying Concurrent Objects	|
 | 2024-09-26 | Melody Gallo   			| Bidirectional type checking for SKI calculus	|
 | 2024-10-03 | Koss Kleftogiorgos 		| SIDECAR: Leveraging Debugging Extensions in Commodity Processors to Secure Software	|
-| 2024-10-10 | Vidya Lakshmi Rajagopalan        | Evaluating the Effect of Improved Indirect Call Resolution on System Call Debloating 	|            
-| 2024-10-17 | Mihai Nicola        		| Algebraic Effects and Effect Handlers	|                                                                           
-| 2024-10-24 | Adam Chen        		| Frex: Dependently Typed Algebraic Simplification	|   
+| 2024-10-10 | Vidya Lakshmi Rajagopalan        | Evaluating the Effect of Improved Indirect Call Resolution on System Call Debloating 	|
+| 2024-10-17 | Mihai Nicola        		| Algebraic Effects and Effect Handlers	|
+| 2024-10-24 | Adam Chen        		| Frex: Dependently Typed Algebraic Simplification	|
 | 2024-10-31 | Weihao Qu (Guest Speaker)        | Utilizing Program Analysis on Adaptive Data Analysis Algorithms	|
 | 2024-11-07 | **SOCIAL** 			| |
 | 2024-11-14 | **SOCIAL**        		| |
 | 2024-11-21 | Eric Wang  			| Normalization by Evaluation (NbE)	|
-| 2023-11-28 | **THANKSGIVING**   		| |
-| 2023-12-05 | Ayomide Akinsanya        	| |
+| 2024-11-28 | **THANKSGIVING**   		| |
+| 2024-12-05 | Ayomide Akinsanya        	| |
+| 2025-01-23 | **PLANNING** | |
+| 2025-01-30 | Michael Greenberg | How to Give a Good Talk |
+| 2025-02-06 | Eric Koskinen | |
+| 2025-02-20 | | |
+| 2025-02-27 | Jude Kanjamala | |
+| 2025-03-06 | Eric Wang | |
+| 2025-03-13 | Parisa Fathololumi | |
+| 2025-03-20 | **SPRING BREAK** | |
+| 2025-03-27 | Mihai Nicola | |
+| 2025-04-03 | Adam Chen | |
+| 2025-04-10 | | |
+| 2025-04-17 | | |
+| 2025-04-24 | | |
+| 2025-05-01 | Ayomide Akinsanya | |
+| 2025-05-08 | Zhendong | |
+| 2025-05-15 | | |
 
 ## Archive
 
