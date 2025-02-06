@@ -50,4 +50,4 @@ In the fall, Cypress met at noon on Tuesdays in GS 222.
 
 ## Archive
 
-- [2021-2022 Schedule](2021_2022)
+- [2021-2022 Schedule](2021_2022.html)

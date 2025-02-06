@@ -47,6 +47,6 @@ find someone willing to take your place first.
 
 ## Archive
 
-- [2023-2024 Schedule](schedule_2324)
-- [2022-2023 Schedule](schedule_2223)
-- [2021-2022 Schedule](schedule_2122)
+- [2023-2024 Schedule](2023_2024.html)
+- [2022-2023 Schedule](2022_2023.html)
+- [2021-2022 Schedule](2021_2022.html)
