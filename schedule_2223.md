@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Archived Seminar 2022-2032"
+title:  "Archived Seminar 2022-2023"
 categories: seminar schedule archive
 permalink: /schedule/2022_2023
 ---
@@ -11,7 +11,7 @@ In 2022 and 2023, the Cypress seminar met 12:30-2pm ET in GS 222 also via [Zoom]
 
 | Date       | Speaker                               | Topic |
 | ---------- | ------------------------------------- | ------------------------------------------------- |
-| 2023-01-26 | Shan Huang | [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/abs/2204.04008) | 
+| 2023-01-26 | Shan Huang | [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/abs/2204.04008) |
 | 2023-02-02 | **Social** | |
 | 2023-02-09 | | |
 | 2023-02-16 | Parisa Fathololumi | |
@@ -32,7 +32,7 @@ In the fall, Cypress met at noon on Tuesdays in GS 222.
 
 | Date       | Speaker                               | Topic |
 | ---------- | ------------------------------------- | ------------------------------------------------- |
-| 2022-09-08 | Farzaneh Derakhshan (CMU) | Recursive Session Logical Relations for Information Flow Control | 
+| 2022-09-08 | Farzaneh Derakhshan (CMU) | Recursive Session Logical Relations for Information Flow Control |
 | 2022-09-13 | Y. Cyrus Liu | DrNLA: Dual Rewriting for Branching-Time Verification of Non-Linear Arithmetic Programs |
 | 2022-09-20 | Adam Chen | Veracity (Declarative Multicore Programming with Commutativity) |
 | 2022-09-27 | Eric Wang | A Type System for Purpose Limitation |
