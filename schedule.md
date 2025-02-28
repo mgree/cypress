@@ -33,7 +33,7 @@ find someone willing to take your place first.
 | 2025-02-06 | (snow day) | |
 | 2025-02-13 | Eric Koskinen | Whiteboard talk |
 | 2025-02-20 | | |
-| 2025-02-27 | Jude Kanjamala | |
+| 2025-02-27 | Jude Kanjamala |Introduction to Verifiable C |
 | 2025-03-06 | Eric Wang | |
 | 2025-03-13 | Parisa Fathololumi | |
 | 2025-03-20 | **SPRING BREAK** | |
