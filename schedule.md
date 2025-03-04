@@ -30,9 +30,9 @@ find someone willing to take your place first.
 | 2024-12-05 | Ayomide Akinsanya        	| |
 | 2025-01-23 | **PLANNING** | |
 | 2025-01-30 | Michael Greenberg | How to Give a Good Talk |
-| 2025-02-06 | (snow day) | |
+| 2025-02-06 | **SNOW DAY** | |
 | 2025-02-13 | Eric Koskinen | Whiteboard talk |
-| 2025-02-20 | | |
+| 2025-02-20 | **SOCIAL** | |
 | 2025-02-27 | Jude Kanjamala | |
 | 2025-03-06 | Eric Wang | |
 | 2025-03-13 | Parisa Fathololumi | |
