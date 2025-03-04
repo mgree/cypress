@@ -30,16 +30,16 @@ find someone willing to take your place first.
 | 2024-12-05 | Ayomide Akinsanya        	| |
 | 2025-01-23 | **PLANNING** | |
 | 2025-01-30 | Michael Greenberg | How to Give a Good Talk |
-| 2025-02-06 | (snow day) | |
+| 2025-02-06 | **SNOW DAY** | |
 | 2025-02-13 | Eric Koskinen | Whiteboard talk |
-| 2025-02-20 | | |
-| 2025-02-27 | Jude Kanjamala |Introduction to Verifiable C |
+| 2025-02-20 | **SOCIAL** | |
+| 2025-02-27 | Jude Kanjamala | Introduction to Verifiable C |
 | 2025-03-06 | Eric Wang | |
 | 2025-03-13 | Parisa Fathololumi | |
 | 2025-03-20 | **SPRING BREAK** | |
 | 2025-03-27 | Mihai Nicola | |
 | 2025-04-03 | Adam Chen | |
-| 2025-04-10 | | |
+| 2025-04-10 | Noam Zilberstein (Cornell) | Outcome Logic |
 | 2025-04-17 | | |
 | 2025-04-24 | | |
 | 2025-05-01 | Ayomide Akinsanya | |
