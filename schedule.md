@@ -37,8 +37,8 @@ find someone willing to take your place first.
 | 2025-03-06 | Eric Wang | |
 | 2025-03-13 | Parisa Fathololumi | |
 | 2025-03-20 | **SPRING BREAK** | |
-| 2025-03-27 | Mihai Nicola | |
-| 2025-04-03 | Adam Chen | |
+| 2025-03-27 | Adam Chen | |
+| 2025-04-03 | Mihai Nicola | |
 | 2025-04-10 | Noam Zilberstein (Cornell) | Outcome Logic |
 | 2025-04-17 | | |
 | 2025-04-24 | | |
