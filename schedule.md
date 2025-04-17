@@ -41,7 +41,7 @@ find someone willing to take your place first.
 | 2025-04-03 | Mihai Nicola | |
 | 2025-04-10 | Noam Zilberstein (Cornell) | Outcome Logic |
 | 2025-04-17 | | |
-| 2025-04-24 | | |
+| 2025-04-24 | Adarsh Vatsa | |
 | 2025-05-01 | Ayomide Akinsanya | |
 | 2025-05-08 | Zhendong | |
 | 2025-05-15 | | |
