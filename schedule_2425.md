@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archived Seminar 2024-2025"
-categories: seminar schedule
+categories: seminar schedule archive
 permalink: /schedule/2024_2025
 ---
 
