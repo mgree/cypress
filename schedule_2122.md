@@ -7,13 +7,6 @@ permalink: /schedule/2021_2022
 
 <link rel="stylesheet" href="{{ "/assets/schedule.css" | relative_url }}">
 
-In 2021 and 2022, the Cypress seminar met at noon in GS 222.
-
-You should be able to access GS 222 with your DuckCard. To sign up,
-choose an empty slot and let <a id="contact" href="mailto:{{
-site.email }}">{{ site.organizer }}</a> know. If you're rescheduling, please
-find someone willing to take your place first.
-
 | Date       | Speaker                               | Topic |
 | ---------- | ------------------------------------- | ------------------------------------------------- |
 | 2021-10-06 | Cyrus Liu                             | Proving LTL Properties of Bitvector Programs and Decompiled Binaries | 

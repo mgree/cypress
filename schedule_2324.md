@@ -7,13 +7,6 @@ permalink: /schedule/2023_2024
 
 <link rel="stylesheet" href="{{ "/assets/schedule.css" | relative_url }}">
 
-The Cypress seminar meets {{ site.meeting_time }} in {{ site.meeting_location }} also via [Zoom](https://stevens.zoom.us/j/96042392165).
-
-You should be able to access GN 303 with your DuckCard. To sign up,
-choose an empty slot and let <a id="contact" href="mailto:{{
-site.email }}">{{ site.organizer }}</a> know. If you're rescheduling, please
-find someone willing to take your place first.
-
 | Date       | Speaker                               | Topic |
 | ---------- | ------------------------------------- | ------------------------------------------------- |
 | 2023-09-21 | Adam Chen | Better Predicate Pruning and Heuristics for Commutativity Synthesis |
