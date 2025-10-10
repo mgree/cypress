@@ -21,11 +21,11 @@ find someone willing to take your place first.
 | 2025-09-25 | Adarsh | |
 | 2025-10-02 | Mihai | |
 | 2025-10-09 | Adam | |
-| 2025-10-16 | Bethel | |
+| 2025-10-16 | Skipped | |
 | 2025-10-30 | Jude | |
 | 2025-11-06 | Parisa | |
 | 2025-11-13 | Eric | |
-| 2025-11-20 | | |
+| 2025-11-20 | Bethel | |
 | 2025-11-27 | **THANKSGIVING** | |
 | 2025-12-04 | | |
 | 2025-12-11 | | |
