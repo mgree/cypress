@@ -22,6 +22,7 @@ find someone willing to take your place first.
 | 2025-10-02 | Mihai | |
 | 2025-10-09 | Adam | |
 | 2025-10-16 | | |
+| 2025-10-23 | | |
 | 2025-10-30 | Jude | |
 | 2025-11-06 | Parisa | |
 | 2025-11-13 | Eric | |
