@@ -25,10 +25,10 @@ find someone willing to take your place first.
 | 2025-10-23 | Sachi | |
 | 2025-10-30 | Jude | |
 | 2025-11-06 | Parisa | |
-| 2025-11-13 | Eric | |
+| 2025-11-13 | | |
 | 2025-11-20 | Bethel | |
 | 2025-11-27 | **THANKSGIVING** | |
-| 2025-12-04 | | |
+| 2025-12-04 | Eric | |
 | 2025-12-11 | | |
 | 2025-12-18 | | |
 
