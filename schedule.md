@@ -28,8 +28,8 @@ find someone willing to take your place first.
 | 2025-11-13 | | |
 | 2025-11-20 | Bethel | |
 | 2025-11-27 | **THANKSGIVING** | |
-| 2025-12-04 | Eric | |
-| 2025-12-11 | | |
+| 2025-12-04 | Adam & Vidya's Defense | |
+| 2025-12-11 | Eric | |
 | 2025-12-18 | | |
 
 ## Archive
