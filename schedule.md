@@ -29,8 +29,8 @@ The theme this semester is "foundations"---we're reading papers that are at leas
 | 2026-03-12 | | |
 | 2026-03-19 | **SPRING BREAK** | |
 | 2026-03-26 | | |
-| 2026-04-02 | Bethel | |
-| 2026-04-09 | Mihai | |
+| 2026-04-02 | Mihai | |
+| 2026-04-09 | Bethel | |
 | 2026-04-16 | | |
 | 2026-04-23 | | |
 | 2026-04-30 | | |
