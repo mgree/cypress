@@ -33,8 +33,8 @@ The theme this semester is "foundations"---we're reading papers that are at leas
 | 2026-04-09 | Bethel | |
 | 2026-04-16 | | |
 | 2026-04-23 | | |
-| 2026-04-30 | Josh Cohen (AWS ARG) | |
-| 2026-05-07 | | |
+| 2026-04-30 | | |
+| 2026-05-07 | Josh Cohen (AWS ARG) | |
 
 # Fall 2025
 
