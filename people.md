@@ -20,6 +20,7 @@ permalink: /people/
 - [![Georgios Portokalidis]({{ "/assets/gportoka.jpg" | relative_url }}) Georgios Portokalidis](https://www.portokalidis.net/)
 - [![Susanne Wetzel]({{ "/assets/swetzel.jpg" | relative_url }}) Susanne Wetzel](https://www.cs.stevens.edu/~swetzel/)
 - [![Xiaodong Yu]({{ "/assets/xyu38.jpg" | relative_url }}) Xiaodong Yu](https://xiaodong-yu.github.io/)
+- [![Noam Zilberstein]({{ "/assets/noamz.jpg" | relative_url }}) Noam Zilberstein](https://zilberstein.github.io/)
 
 
 ## Students
